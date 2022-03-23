@@ -250,7 +250,7 @@ rules:
   verbs:
   - create
   - patch
-  ---
+---
   apiVersion: v1
   kind: Namespace
   metadata:
