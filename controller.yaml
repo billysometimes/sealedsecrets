@@ -47,7 +47,6 @@ spec:
         securityContext:
           readOnlyRootFilesystem: true
           runAsNonRoot: true
-          runAsUser: 1001
         stdin: false
         tty: false
         volumeMounts:
