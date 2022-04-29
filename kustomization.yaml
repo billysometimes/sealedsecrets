@@ -4,3 +4,4 @@ kind: Kustomization
 
 resources:
   - controller.yaml
+  - helm-apps/app.yaml
